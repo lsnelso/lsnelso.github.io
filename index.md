@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+# Welcome to my blog!
+### the best is yet to come
 
-Maybe say a some things about yourself.
+---
 
-Or maybe what you plan to blog about.
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
